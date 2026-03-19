@@ -237,6 +237,7 @@ Before the DGP analysis, a Monte Carlo bias–variance illustration was run on `
 └── README.md
 
 ---
+```
 
 ## Tech Stack
 
