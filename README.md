@@ -1,10 +1,10 @@
-# 📐 Bias–Variance Tradeoff in Statistical Learning — Simulations & Empirical Analysis
+# Bias–Variance Tradeoff in Statistical Learning — Simulations & Empirical Analysis
 
 > Evaluating variable selection methods through Monte Carlo simulations and real-world validation on the Diabetes dataset (SAS)
 
 ---
 
-## 🧠 Project Structure
+## Project Structure
 
 This project is organized in **two complementary parts** :
 ```
