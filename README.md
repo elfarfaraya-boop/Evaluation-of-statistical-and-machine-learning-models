@@ -1,9 +1,7 @@
 # Evaluation of statistical and machine learning models — An Empirical Approach
 
 > Bias–Variance Tradeoff via Monte Carlo Simulations & Empirical Validation on the Diabetes Dataset (SAS)
-> 
-> **Authors:** Aya Wifak · Alicia Dahmani · Aya El Farfar — M1 Économétrie & Statistiques, Paris 1 Panthéon-Sorbonne
-> **Supervisor:** Philippe De Peretti — Academic Year 2025–2026
+
 
 ---
 
