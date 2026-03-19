@@ -1,6 +1,6 @@
 # Evaluation of statistical and machine learning models — An Empirical Approach
 
-> Bias–Variance Tradeoff via Monte Carlo Simulations & Empirical Validation on the Diabetes Dataset (SAS)
+> Bias–Variance tradeoff via Monte Carlo simulations & Empirical validation on the diabetes dataset (SAS)
 
 
 ---
